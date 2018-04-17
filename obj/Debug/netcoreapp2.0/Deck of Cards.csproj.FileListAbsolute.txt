@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\bin\Debug\netcoreapp2.0\Deck of Cards.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\bin\Debug\netcoreapp2.0\Deck of Cards.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\bin\Debug\netcoreapp2.0\Deck of Cards.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\bin\Debug\netcoreapp2.0\Deck of Cards.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\bin\Debug\netcoreapp2.0\Deck of Cards.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\obj\Debug\netcoreapp2.0\Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\obj\Debug\netcoreapp2.0\Deck of Cards.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\obj\Debug\netcoreapp2.0\Deck of Cards.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\obj\Debug\netcoreapp2.0\Deck of Cards.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Deck of Cards\obj\Debug\netcoreapp2.0\Deck of Cards.pdb
